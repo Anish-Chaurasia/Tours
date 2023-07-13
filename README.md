@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Corresponding Projects
 
 #### useState
@@ -33,3 +34,6 @@
 14. Cart
 
 #### React Router
+=======
+To view the projrct go to :- https://anish-tour.netlify.app/
+>>>>>>> 15b51560e323a959b1c3089d5d09374a3ce9312b
